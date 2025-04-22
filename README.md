@@ -9,6 +9,7 @@ Project categories:
 - [Music](#music)
 - [APIs](#apis)
 - [Social](#social)
+- [Other](#other)
 
 Project types:
 - [Open-source](#open-source)
@@ -30,6 +31,9 @@ Project types:
 
 ## Social
 - [Openchat](#openchat)
+
+## Other
+- [unix2discord](#unix2discord)
 
 ## Open-source
 **All** my projects are open-source with the repositories on my GitHub profile and **all of them are free**. Most of them are hosted with Vercel! <3 open-source
@@ -93,5 +97,13 @@ A platform to get ALL information about ANY Spotify track, artist, album, playli
 - **https://db.sipped.org** (or spotdb.sipped.org)
 - [**Repository**](https://github.com/sippedaway/spotdb)
 
+## [unix2discord](https://u2d.sipped.org)
+A simple website made in like 5 minutes to turn any date + time to Discord timestamps for easy copying
+- **Built with:** HTML/CSS/JS
+- **Created:** 2025-04-22
+- **https://u2d.sipped.org**
+- [**Repository**](https://github.com/sippedaway/unix2discord)
+
 # Updates
-03-15: Created, all projects up-to-date
+* 04-22: Up-to-date, added [unix2discord](#unix2discord)
+* 03-15: Created, all projects up-to-date
