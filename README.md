@@ -88,7 +88,7 @@ Build your own smart music release pages for free with no attribution required! 
 - **Built with:** HTML/CSS/JS
 - **Created:** 2025-01-18
 - **https://sipped.org**
-- [**Repository**](https://github.com/sippedaway/sipped-org)
+- [**Repository**](https://github.com/sippedaway/sipped.org)
 
 ## [SpotDB](https://db.sipped.org)
 A platform to get ALL information about ANY Spotify track, artist, album, playlist, user, and more!
@@ -105,5 +105,6 @@ A simple website made in like 5 minutes to turn any date + time to Discord times
 - [**Repository**](https://github.com/sippedaway/unix2discord)
 
 # Updates
+* 05-08: Fixed error with sipped.org repository link
 * 04-22: Up-to-date, added [unix2discord](#unix2discord)
 * 03-15: Created, all projects up-to-date
