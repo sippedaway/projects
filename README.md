@@ -40,12 +40,12 @@ Project types:
 
 # All projects (A to Z)
 
-## [Apple Music Lyrics Generator](https://projects.sipped.org/applemusic-lyrics-generator)
-A very realistic Apple Music song lyrics generator. Create any lyrics, background lyrics, and more
+## [Apple Music Lyrics Editor](https://projects.sipped.org/applemusic-lyrics-generator)
+A very realistic Apple Music song lyrics editor. Create any lyrics, background lyrics, and more
 - **Built with:** HTML/CSS/JS
 - **Created:** 2025-03-15
 - **https://projects.sipped.org/applemusic-lyrics-generator**
-- [**Repository**](https://github.com/sippedaway/applemusic-lyrics-generator)
+- [**Repository**](https://github.com/sippedaway/applemusic-lyrics-editor)
 
 ## blog
 A personal blog page with unique customization and frequent posts
