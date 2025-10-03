@@ -8,7 +8,6 @@ Project categories:
 - [Personal](#personal)
 - [Music](#music)
 - [APIs](#apis)
-- [Social](#social)
 - [Other](#other)
 
 Project types:
@@ -28,9 +27,6 @@ Project types:
 
 ## APIs
 - [Counter-API](#counter-api)
-
-## Social
-- [Openchat](#openchat)
 
 ## Other
 - [unix2discord](#unix2discord)
@@ -67,14 +63,6 @@ An online FL Studio-inspired website to make music with patterns, piano roll, an
 - **Created:** 2025-02-20
 - **https://daw.sipped.org** 
 - [**Repository**](https://github.com/sippedaway/daw-online)
-
-## Openchat
-One chatroom, no rules, unique customization and more!
-- Currently not hosted anywhere
-- **Built with:** HTML/CSS/JS, Node.js, WS
-- **Created:** 2025-02-18
-- **https://chat.sipped.org** 
-- [**Repository**](https://github.com/sippedaway/openchat)
 
 ## [Showray](https://showray.sipped.org)
 Build your own smart music release pages for free with no attribution required! - Currently not hosted anywhere
